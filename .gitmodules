@@ -1,0 +1,3 @@
+[submodule "2d-game-2023-whisper-mafia"]
+	path = 2d-game-2023-whisper-mafia
+	url = git@github.com-school:comp159/2d-game-2023-whisper-mafia.git
