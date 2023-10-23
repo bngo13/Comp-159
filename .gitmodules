@@ -4,3 +4,6 @@
 [submodule "NoOsv"]
 	path = NoOsv
 	url = git@github.com-school:comp159/2d-with-3d-no-osvaldo-i-will-not-pick-a-team-name.git
+[submodule "OAOS"]
+	path = OAOS
+	url = git@github.com-school:comp159/game-jam-2d-onlyavailableonscreaming.git
