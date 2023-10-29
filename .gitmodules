@@ -7,3 +7,6 @@
 [submodule "OAOS"]
 	path = OAOS
 	url = git@github.com-school:comp159/game-jam-2d-onlyavailableonscreaming.git
+[submodule "Individual 3D Game"]
+	path = Individual 3D Game
+	url = git@github.com-school:comp159/individual-3d-assignment-bngo13.git
