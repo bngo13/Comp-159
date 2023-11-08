@@ -10,3 +10,6 @@
 [submodule "Individual 3D Game"]
 	path = Individual 3D Game
 	url = git@github.com-school:comp159/individual-3d-assignment-bngo13.git
+[submodule "square-flipper"]
+	path = square-flipper
+	url = git@github.com-school:bngo13/square-flipper.git
