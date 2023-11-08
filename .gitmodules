@@ -13,3 +13,6 @@
 [submodule "square-flipper"]
 	path = square-flipper
 	url = git@github.com-school:bngo13/square-flipper.git
+[submodule "crappy-bird"]
+	path = crappy-bird
+	url = git@github.com-school:bngo13/crappy-bird.git
