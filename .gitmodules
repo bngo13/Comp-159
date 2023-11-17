@@ -20,3 +20,7 @@
 	path = Whisper Mafia
 	url = git@github.com-school:comp159/2d-game-2023-whisper-mafia.git
 	branch = main
+[submodule "final-project-3d-2023-midnight-codeventure"]
+	path = final-project-3d-2023-midnight-codeventure
+	url = git@github.com-school:comp159/final-project-3d-2023-midnight-codeventure.git
+	branch = main
